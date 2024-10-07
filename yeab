@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>title</title>
+    </head>
+    <body>
+        <p>this <sub>is content</sub><sup>that</sup><ins>we</ins>wrote</p>
+        <br>
+        <pre>this <em>is</em><i> paragraph </i>.
+            <del>this</del> is</del> <br>another <mark>paragraph</mark>.
+        </pre>
+        <a href="https://www.google.com/">this is google</a>
+        <h1>this is h1</h1>
+        <h3>this is h3</h3>
+        <h6>this is h6</h6>
+        <ul type="square" >
+            <li>list 1</li>
+            <li>list 2</li>
+        </ul>
+        <ol type="I" start="4">
+            <li>list 1</li>
+            <li>list 2</li>
+        </ol>
+        <table border="1px" cellpadding="10px" cellspacing="10px">
+            <tr>
+                <th>No</th>
+                <th>name</th>
+                <th>sex</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>abel</td>
+                <td>M</td>
+            </tr>
+        </table>
+        <img src="Starboy.jpg" width="100" height="100"><br>
+        <img src="https://ipm.missouri.edu/meg/2024/3/lily-dt/lily.general3.wikipedia.jpg" width="100" height="100">
+
+    
+    </body>
+
+</html>
